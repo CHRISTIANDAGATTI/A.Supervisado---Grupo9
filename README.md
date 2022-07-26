@@ -1,4 +1,4 @@
-# ASupervisado---Grupo9
+# A.Supervisado---Grupo9
 Análisis Supervisado---Grupo9
 
 Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - 2022
